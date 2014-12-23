@@ -1,0 +1,27 @@
+{
+	"name": "intellect-language-english",
+	"description": "Intellect extension to support English grammar & syntax",
+	"version": "0.0.1",
+	"author": "makesites",
+	"contributors": [
+		{ "name": "Makis Tracend", "email": "makis@makesit.es" }
+	],
+	"homepage": "http://github.com/makesites/intellect",
+	"keywords": ["english", "language", "intellect", "api", "json"],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/intellect-modules/language-english.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT license",
+			"url": "http://makesites.org/licenses/MIT"
+		}
+	],
+	"engines": { "node": ">=0.8.x" },
+	"main": "index",
+	"bin": { },
+	"dependencies": {
+		"underscore": "*"
+	}
+}
